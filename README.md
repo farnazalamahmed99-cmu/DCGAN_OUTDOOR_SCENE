@@ -103,11 +103,11 @@ Applies adaptive schedulers to reduce instability.
 
 ## 📊 Results
    
-Metric: Instability Score (Loss Variance)	0.0060	 0.00437	         
+Metric: Instability Score         
 Baseline: 0.0060
 Optimized: 0.00437
 Improvement:    ↓ 27.1%
-✅ The optimized configuration produced smoother convergence, reduced discriminator 437oscillations, and generated sharper, more consistent images.
+✅ The optimized configuration produced smoother convergence, reduced discriminator oscillations, and generated sharper, more consistent images.
 
 
 
